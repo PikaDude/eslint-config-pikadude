@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-pikadude",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PikaDude/eslint-config-pikadude.git",
+  "author": "PikaDude <mail@pikadude.me>",
+  "license": "MIT",
+  "private": false
+}
