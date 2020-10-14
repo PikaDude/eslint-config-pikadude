@@ -9,12 +9,6 @@
   "scripts": {
     "lint": "eslint ."
   },
-  "peerDependencies": {
-    "eslint": "^7.11.0",
-    "eslint-config-prettier": "^6.12.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "prettier": "^2.1.2"
-  },
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-config-prettier": "^6.12.0",
