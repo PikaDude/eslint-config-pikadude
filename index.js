@@ -1,6 +1,7 @@
 module.exports = {
     env: {
         node: true,
+        es6: true
     },
     extends: ['plugin:prettier/recommended', 'eslint:recommended', 'prettier'],
     plugins: ['prettier'],
@@ -24,7 +25,7 @@ module.exports = {
                 arrowParens: 'always',
                 singleQuote: true,
                 tabWidth: 4,
-                printWidth: 150,
+                printWidth: 130,
             },
         ],
     },
