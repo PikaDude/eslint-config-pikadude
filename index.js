@@ -25,7 +25,7 @@ module.exports = {
                 arrowParens: 'always',
                 singleQuote: true,
                 tabWidth: 4,
-                printWidth: 130,
+                printWidth: 150,
             },
         ],
     },
